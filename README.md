@@ -1,6 +1,4 @@
-Here is the complete, properly formatted, production-ready `README.md` for your GitHub repository:
 
-```markdown
 # Linux Process Monitoring and Management Tool Using C
 
 ## 1. Project Title
